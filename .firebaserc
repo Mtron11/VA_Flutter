@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "assistant-e8432",
+    "development": "assistant-e8432"
+  },
+  "targets": {},
+  "etags": {}
+}
